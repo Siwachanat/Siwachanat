@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Siwachanat</h1>
+<h1 align="center">Hi 👋, I'm SIWACHANAT From DINONAUT TEAM </h1>
 <h3 align="center">Robot Builder | AI Trainer | FPV Drone Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siwachanat&label=Profile%20views&color=0e75b6&style=flat" alt="siwachanat" /> </p>
 
-- 🌱 I’m currently learning **AI | IoT | ROS2**
+- 🌱 I’m currently learning **AI | IoT | ROS2 | Roadrunner**
 
-- 💬 Ask me about **ROS noetic | TensorFlowLite**
+- 💬 Ask me about **FTC Roadrunner | ROS noetic | TensorFlowLite**
 
 - 📫 How to reach me **siwachanat2008@gmail.com**
 
