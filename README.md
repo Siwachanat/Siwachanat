@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SIWACHANAT From DINONAUT TEAM </h1>
-<h3 align="center">Robot Builder | AI Trainer | FPV Drone Builder</h3>
+<h3 align="center">Robot Builder | AI Trainer | FPV Drone Builder | FTC Robot Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siwachanat&label=Profile%20views&color=0e75b6&style=flat" alt="siwachanat" /> </p>
 
