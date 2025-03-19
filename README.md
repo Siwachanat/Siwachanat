@@ -11,11 +11,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently diving deep into **AI, IoT, ROS2, and Roadrunner**, with a focus on practical applications.
+- 🌱 Currently diving deep into **AI, IoT, ROS2, and Roadrunner**.
 - 🤖 Experienced in **FTC Roadrunner, ROS Noetic, Micro ROS Humble, TensorFlow Lite, and YOLO AI**.
-- 📱 Developing Android applications using **Android Studio** for robotics and IoT projects.
-- 💻 Proficient in **Ubuntu** for development and deployment of ROS2 and other robotics software.
-- 💬 Feel free to ask me anything about **robotics, AI, Android development, and ROS2**.
+- 💬 Feel free to ask me anything about **robotics, AI, and related technologies**.
 - 📫 Reach out to me at **siwachanat2008@gmail.com**.
 - ⚡ Fun Fact: **"No story, no glory."**
 
@@ -24,9 +22,6 @@
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" title="Arduino"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-        <img src="https://developer.android.com/studio/images/brand/android-studio-icon_2x.png" alt="Android Studio" width="40" height="40" title="Android Studio"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
@@ -48,9 +43,6 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
-  </a>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.ros.org/assets/images/ros.png" alt="ROS" width="40" height="40" title="ROS"/>
   </a>
 </p>
 
