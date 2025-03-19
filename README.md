@@ -26,7 +26,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" title="Arduino"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcExatmAyikU9lEpJpFdTr1tVsl1PrlRIolRQrFowiUFYtFxWs1tGnVNPr1NZtl9Vs1pRsVZduWRivWhMp1ZUr14GBAZHoVNBlEsvOzBBmksvZjE9jkY+fUJA+EjFAAAADnRSTlMAv9i+Zp1xMBW0NFHkj7ECPhsAAADQSURBVCiRzdDdEoIgEAVgTNToh11wF9Tq/V+zpRiCmu49V8inu2dUapc5fV9Mn2O/XVu7xkM5HzY61naMywdPC3U1mnivFvWEZ1mkx1HLtglj38xxF+PwHXNxsdkyIOR47wGHxuSu6Dx7qLSTC8hDMensS0GTXkaXg/hS87ZRHviONsc5WEAmja+mydZwc0VvYYXZc2o8CD5CjWsID8E0mKXoElayBbcQyHsmpTQDoLPlu6TWSmcmrQwx1pIdgMkoHemHBJEpamk7/Unzf/eRJymOFA4d4haTAAAAAElFTkSuQmCC"/>
+        <img src="https://developer.android.com/studio/images/brand/android-studio-icon_2x.png" alt="Android Studio" width="40" height="40" title="Android Studio"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
