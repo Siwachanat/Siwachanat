@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI | IoT | ROS2 | Roadrunner**
 
-- 💬 Ask me about **FTC Roadrunner | ROS noetic | TensorFlowLite | YOLOv.5**
+- 💬 Ask me about **FTC Roadrunner | ROS noetic | Micro ROS humble| TensorFlowLite | YOLO AI**
 
 - 📫 How to reach me **siwachanat2008@gmail.com**
 
