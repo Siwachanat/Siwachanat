@@ -12,9 +12,9 @@
 ## 🚀 About Me
 
 - 🌱 Currently diving deep into **AI, IoT, ROS2, and Roadrunner**.
-- 🤖 Experienced in **FTC Roadrunner, ROS Noetic, Micro ROS Humble, TensorFlow Lite, and YOLO AI**.
+- 🤖 Experienced in **FTC Roadrunner, ROS Noetic, Micro ROS Humble, TensorFlow Lite, and YOLO AI, 3D Modeling**.
 - 💬 Feel free to ask me anything about **robotics, AI, and related technologies**.
-- 📫 Reach out to me at **siwachanat2008@gmail.com**.
+- 📫 Reach out to me at **siwachanat2008@gmail.com or dinonaut.kku@gmail.com**.
 - ⚡ Fun Fact: **"No story, no glory."**
 
 ## 🛠️ Tech Stack
