@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siwachanat from DINONAUT TEAM</h1>
+<h1 align="center">Hi 👋, I'm Siwachanat Captain of DINONAUT TEAM</h1>
 <h3 align="center">Robot Builder | AI Trainer | FPV Drone Builder | FTC Robot Builder</h3>
 
 <p align="center">
