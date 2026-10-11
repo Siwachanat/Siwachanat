@@ -39,7 +39,9 @@ Robotics & Embedded Systems Builder 🤖 | ROS 2 | Control Systems | Computer Vi
 
 ### 🤖 Robotics & Autonomous Systems
 
+* Exoskeleton
 * ROS 2
+* EMGs
 * ROS Noetic
 * micro-ROS
 * Mobile Robotics
