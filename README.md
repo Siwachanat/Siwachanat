@@ -31,7 +31,7 @@ Robotics & Embedded Systems Builder 🤖 | ROS 2 | Control Systems | Computer Vi
 * 💬 Ask me about **Robotics, ROS, Embedded Systems, Computer Vision, FPV, Control Systems, or FTC**.
 * 📫 **[siwachanat2008@gmail.com](mailto:siwachanat2008@gmail.com)**
 * 📫 **[siwachanat.s@kkumail.com](mailto:siwachanat.s@kkumail.com)**
-* ⚡ **"No story, no glory."**
+* ⚡ **"No story, no glory."** 
 
 ---
 
