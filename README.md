@@ -6,6 +6,8 @@ Robotics & Embedded Systems Builder 🤖 | ROS 2 | Control Systems | Computer Vi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siwachanat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <br/>
+  <a href="https://komarev.com/ghpvc/?username=siwachanat&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat">View my live profile-view count ↗</a>
 </p>
 
 <p align="center">
