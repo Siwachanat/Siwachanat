@@ -30,7 +30,7 @@ Robotics & Embedded Systems Builder 🤖 | ROS 2 | Control Systems | Computer Vi
 * 🛰️ Also interested in **CanSat / CubeSat systems and aerospace electronics**.
 * 💬 Ask me about **Robotics, ROS, Embedded Systems, Computer Vision, FPV, Control Systems, or FTC**.
 * 📫 **[siwachanat2008@gmail.com](mailto:siwachanat2008@gmail.com)**
-* 📫 **[dinonaut.kku@gmail.com](mailto:dinonaut.kku@gmail.com)**
+* 📫 **[siwachanat.s@kkumail.com](mailto:siwachanat.s@kkumail.com)**
 * ⚡ **"No story, no glory."**
 
 ---
